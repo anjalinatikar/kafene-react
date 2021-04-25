@@ -1,0 +1,79 @@
+.Topbar {
+    width: 100%;
+    padding: 0 48px;
+    box-sizing: border-box;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 10;
+    box-shadow: 0 2px 4px #ccc;
+    background-color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.LeftMenu {
+    display: flex;
+    align-items: center;
+    min-height:64px;
+}
+
+.LogoWrapper {
+    margin-right: 36px;
+    display: flex;
+    align-items: center;
+}
+
+.LogoWrapper img {
+    width: 24px;
+    height: 28px;
+    margin-right: 8px;
+}
+
+.BrandName {
+    font-size: 24px;
+    letter-spacing: -1px;
+    font-weight: 500;
+    margin: 0;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.MenuItem {
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.8);
+
+    padding: 24px 0 16px;
+
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    margin: 0 10px;
+}
+
+.MenuItemActive {
+    color: #20B883;
+    border-bottom: 3px solid #20B883;
+}
+
+
+.LogoutBtn {
+    position: absolute;
+    cursor: pointer;
+    right:40px;
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(0,0,0,.8);
+    padding: 24px 0 16px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: .6px;
+    margin: 0 10px;
+    outline: none;
+    border:none;
+    background-color:#fff;
+}
