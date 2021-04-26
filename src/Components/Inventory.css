@@ -1,0 +1,70 @@
+.list-table{
+    width: 100%;
+  border-collapse: collapse;
+}
+.list-table tr{
+    vertical-align: middle;
+    background-color: #f6f7fb;
+}
+.list-table th{
+    text-align: left;
+    padding: 12px 24px;
+    font-size: 14px;
+}
+.list-table td{
+    text-align: left;
+    padding: 12px 24px;
+    font-size: 14px;
+}
+tr td{
+    background-color: #fff;
+  border-bottom: 4px solid #f6f7fb; 
+}
+.cell-primary {
+    color: rgba(0, 0, 0, 0.8);
+    font-weight: 500;
+}
+.cell-secondary {
+    color: #8c8c8c;
+}
+.table-row{
+    position: relative;
+}
+.edit-btn{
+    position: absolute;
+    right: 100px;
+    border-radius: 5px;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    background-color: #b82107cb;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 10px;
+}
+.delete-btn{
+    position: absolute;
+    right: 20px;
+    border-radius: 5px;
+    padding: 4px 10px;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    background-color: #b82107cb;
+    color: #fff;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-align: center;
+    margin-top: 10px;
+}
