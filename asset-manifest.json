@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/storemanagement-react/static/css/main.79855f1b.chunk.css",
+    "main.js": "/storemanagement-react/static/js/main.be2e74a2.chunk.js",
+    "main.js.map": "/storemanagement-react/static/js/main.be2e74a2.chunk.js.map",
+    "runtime-main.js": "/storemanagement-react/static/js/runtime-main.22977945.js",
+    "runtime-main.js.map": "/storemanagement-react/static/js/runtime-main.22977945.js.map",
+    "static/js/2.c350f78c.chunk.js": "/storemanagement-react/static/js/2.c350f78c.chunk.js",
+    "static/js/2.c350f78c.chunk.js.map": "/storemanagement-react/static/js/2.c350f78c.chunk.js.map",
+    "static/js/3.afc981a6.chunk.js": "/storemanagement-react/static/js/3.afc981a6.chunk.js",
+    "static/js/3.afc981a6.chunk.js.map": "/storemanagement-react/static/js/3.afc981a6.chunk.js.map",
+    "index.html": "/storemanagement-react/index.html",
+    "static/css/main.79855f1b.chunk.css.map": "/storemanagement-react/static/css/main.79855f1b.chunk.css.map",
+    "static/js/2.c350f78c.chunk.js.LICENSE.txt": "/storemanagement-react/static/js/2.c350f78c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22977945.js",
+    "static/js/2.c350f78c.chunk.js",
+    "static/css/main.79855f1b.chunk.css",
+    "static/js/main.be2e74a2.chunk.js"
+  ]
+}
